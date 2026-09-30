@@ -1,9 +1,11 @@
 [package]
 name = "cuckoo-filter"
 version = "0.1.0"
-description = "A Rust library for Cuckoo Filter"
+description = "Cuckoo Filter — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/cuckoo-filter"
+repository = "https://github.com/SuperInstance/cuckoo-filter"
 edition = "2021"
+
+keywords = ["cuckoo-filter"]
 
 [dependencies]
